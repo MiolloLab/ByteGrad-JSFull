@@ -4,8 +4,7 @@ const description = 'Salary';
 const newTransaction = true;
 // In var we can accidentally to orride the variables
 
-const balanceNumberEl = document.querySelector('balance-number');
+const balanceNumberEl = document.querySelector('.balance-number');
 balanceNumberEl.textContent = 10000;
 
-balance = 9000;
 
